@@ -26,7 +26,7 @@ class TestControllerpost {
 	
 	@RequestMapping("")
 	public String greetMorning() {
-		return "Good morning";
+		return "Good morning !!!";
 	}
 	
 }
